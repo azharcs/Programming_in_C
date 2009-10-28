@@ -12,3 +12,5 @@ printf ("the result is %i\n", result + 5);
 return 0;
 
 }
+
+// The Output is 95
